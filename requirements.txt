@@ -5,7 +5,7 @@ spacy==3.5.1
 streamlit==1.20.0
 tabula==1.0.5
 tabula_py==2.7.0
-
+tesseract-ocr==0.0.1
 
 spacy>=3.0.0,<4.0.0
 de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.5.0/de_core_news_sm-3.5.0-py3-none-any.whl
